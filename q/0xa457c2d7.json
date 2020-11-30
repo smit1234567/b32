@@ -1,0 +1,1 @@
+[{"name":"decreaseAllowance","outputs":[{"type":"bool","name":"out"}],"inputs":[{"type":"address","name":"_spender"},{"type":"uint256","name":"_value"}],"constant":false,"payable":false,"type":"function","gas":39867,"$contractName":"exchange"}]
